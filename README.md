@@ -1,10 +1,10 @@
 # 👋 Hi, I am 0xGeekCat
 
- 🏫 A junior student majoring in Network Security at Guangdong University of Foreign Studies
+ 🏫 I am a junior pursuing a bachelor of Network Security at Guangdong University of Foreign Studies.
 
- 🔅 It is so bad to waste the front two years and do nothing in university life for me, but just let it go. It's smarter to work hard now than to regret past mistakes
+ 🔅 The past two years have not been great for me. However, I deeply believe that my effort will be paid in the near future.
 
-# 📚 The Books I Read
+# 📚 Books I Read
 
 - 《新时期的Node.js入门》李锴
 - 《Black Hat Python: Python Programming for Hackers and Pentesters》Justin Seitz
@@ -20,12 +20,12 @@
 
 # 🚀 Goals Of 2021
 
-- Complete the book list of basic books in the Web Security direction
-- Start to do some projects after quickly learning the basic books related to web security direction
-- Get an internship in a company with a strong technology learning atmosphere
-- Start learning financial management
+- Complete my Web Security booklist
+- Work on projects related to web securtiy
+- have an internship in a company with strong learning atmosphere
+- learn about financial management
 
-#  📫 How to reach me
+#  📫 Contact me
 
 - (Wechat) coeur-vlant
 
