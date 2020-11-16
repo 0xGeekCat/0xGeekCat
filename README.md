@@ -20,7 +20,7 @@
 
 # 🚀 Goals Of 2021
 
-- Complete my Web Security booklist
+- Complete my web security booklist
 - Work on projects related to web securtiy
 - have an internship in a company with strong learning atmosphere
 - learn about financial management
